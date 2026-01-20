@@ -1,0 +1,80 @@
+#container{
+text-align: center;
+   
+    width: 550px;
+    height: 729px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #F4F4F4 ;
+   border-radius: 6px;
+    
+    
+}
+body{
+    background-color: #1C1C1C;
+}
+
+
+#hero{
+border-radius: 3px;
+    background-color: #6943FF;
+    height: 285px;
+    color: #FFFFFF;
+   font-weight: bold;
+    display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+
+}
+
+button{
+
+    width: 117px;
+    padding-top: 9px ;
+    padding-bottom: 9px;
+    border-radius: 8px;
+    border: none;
+    background-color: #FFFFFF;
+    color: #3D3D3D;
+    font-size: medium;
+   
+    
+}
+
+
+#number{
+   
+    padding: 10px 20px;
+    width: 50px;
+    height: 50px;
+    border: 2px solid #B295FF;
+    text-align: center;
+    font-size: large;
+    margin-bottom: 20px;
+     color: #FFFFFF;
+     background-color: #6943FF;
+}
+
+h3{
+    color: #5A537B;
+}
+
+.pockets{
+    
+    color: #353535;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 23px;
+    background-color: white;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    border-radius: 8px;
+    
+    
+}
+
+#pocketman{
+    margin-top: 0px;
+    
+}
